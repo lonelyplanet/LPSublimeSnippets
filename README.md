@@ -1,5 +1,5 @@
 # LPSublimeSnippets
-This is a repo for publicly charing Sublime Text snippets.
+This is a repo for publicly sharing Sublime Text snippets.
 
 ## Installation
 Run the following command to place the snippets into the right directory.
