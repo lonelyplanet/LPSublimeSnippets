@@ -11,12 +11,12 @@ git clone git@github.com:lonelyplanet/LPSublimeSnippets "~/Library/Application S
 ## List
 
 ### `pry` 
-Command: `pry` 
-Content: `bindings.pry`
-Scope: `.rb`
+* Command: `pry` 
+* Content: `bindings.pry`
+* Scope: `.rb`
 
 ### `uic` 
-Command: `uic` 
-Content: `= ui_component("name", [properties])`
-Scope: `.haml`
+* Command: `uic` 
+* Content: `= ui_component("name", [properties])`
+* Scope: `.haml`
 
