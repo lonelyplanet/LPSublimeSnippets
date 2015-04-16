@@ -20,3 +20,17 @@ git clone git@github.com:lonelyplanet/LPSublimeSnippets "~/Library/Application S
 * Content: `= ui_component("name", [properties])`
 * Scope: `.haml`
 
+### `log`
+* Command: `log`
+* Content: `console.log(obj)`;
+* Scope: `.js`
+
+### `esclass`
+* Command: `esclass`
+* Content:  
+```js
+class Foo {
+
+}
+```
+* Scope: `.js`
