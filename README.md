@@ -12,7 +12,7 @@ git clone git@github.com:lonelyplanet/LPSublimeSnippets "~/Library/Application S
 
 ### `pry` 
 * Command: `pry` 
-* Content: `bindings.pry`
+* Content: `binding.pry`
 * Scope: `.rb`
 
 ### `uic` 
